@@ -1,0 +1,23 @@
+#email {
+    background-color: rgb(255, 255, 255);
+    outline-style:solid;
+    outline-width: 1px;
+    outline-color: black;
+    margin-left: 5px;
+}
+
+#subscribeButton {
+    background-color: rgb(108, 108, 108);
+    margin-left: 5px;
+    font-size: 10px;
+    height: 25px;
+    width: 70px;
+}
+
+#container {
+    background-color: rgb(219, 219, 219);
+    padding: 12px;
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 10px;
+}
